@@ -5,6 +5,6 @@
 </h1>
 <h3>
     Hello, its just a discord bot that i will use to practice with it :D
-
-    - AdonNeet
+    
+    AdonNeet
 </h3>
