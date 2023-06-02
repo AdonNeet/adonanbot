@@ -13,7 +13,12 @@ Hello, its just a discord bot that i will use to practice with it :D
 [buddy.works](https://buddy.works/tutorials/how-to-build-a-discord-bot-in-node-js-for-beginners)   
 [UnderCtrl (YT)](https://youtube.com/playlist?list=PLpmb-7WxPhe0ZVpH9pxT5MtC4heqej8Es)
 
-
+### ToDo's Before Using it
+```terminal
+npm install discord.js
+npm install --save-dev eslint
+npm install dotenv
+```
 
 <h4 align= "left">
   - AdonNeet
