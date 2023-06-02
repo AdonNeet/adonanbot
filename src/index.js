@@ -18,7 +18,7 @@ const client = new Client({ intents: [
 
 // it's for loading commands files
 client.commands = new Collection();
-const folderPath = path.join(__dirname, 'commands');
+const folderPath = path.join(__dirname, '../commands');
 const commandFolders = fs.readdirSync(folderPath);
 
 for (const folder of commandFolders) {
