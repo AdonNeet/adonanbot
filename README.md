@@ -5,6 +5,7 @@
 </h1>
 
 Hello, its just a discord bot that i will use to practice with it :D
+<br><br>
 
 ### Source 
 [discordjs.guide](https://discordjs.guide/#before-you-begin)  
