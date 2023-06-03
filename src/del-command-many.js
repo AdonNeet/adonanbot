@@ -11,7 +11,7 @@ const guildId = process.env.GUILD_ID;
 
 const rest = new REST({ version: '10' }).setToken(token);
 
-const choosen = ['hey', 'ping'];
+const choosen = ['hey', 'ping', 'kick', 'prune', 'avatar', 'server', 'user'];
 
 try {
 	console.log(`Removing ${choosen} slash command`);
