@@ -20,8 +20,7 @@ const rest = new REST({ version: '10' }).setToken(token);
 	try {
 		console.log('Registering slash commands...');
 
-
-		await rest.put(
+		rest.put(
 			Routes.applicationGuildCommands(
 				clientId,
 				guildId,
